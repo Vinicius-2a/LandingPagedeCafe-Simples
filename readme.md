@@ -7,4 +7,4 @@
 </div><br>
 
 ## Dificuldades:
-O projeto não é feito utilizando novas ferramentas como Display Flex ou Grid, com o objetivo de entender algumas dificuldades no momento de criar uma LandingPages.
+O projeto é feito utilizando novas ferramentas como Display Flex ou Grid, com o objetivo de entender algumas dificuldades no momento de criar uma LandingPages.
